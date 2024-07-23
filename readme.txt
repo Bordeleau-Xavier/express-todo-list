@@ -1,0 +1,1 @@
+run npx ts-node src/index.ts to test locally
